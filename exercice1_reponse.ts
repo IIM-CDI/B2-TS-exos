@@ -11,7 +11,6 @@ let email: string = "jean@example.com";
 let yearsExperience: number = 5;
 let isEmployed: boolean = true;
 
-
 //Types unions
 let id: string | number = "12345"; // Peut être une chaîne de caractères ou un nombre
 let score: number | string = 85; // Peut être un nombre ou une chaîne de caractères
